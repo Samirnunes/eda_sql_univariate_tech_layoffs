@@ -15,7 +15,7 @@ sqlite3 do Python em associação à biblioteca Pandas.
 A seguir, encontram-se as primeiras linhas do conjunto de dados:
 
 <p align="center">
-    <img width="850" src="https://github.com/Samirnunes/eda_sql_univariate_tech_layoffs/blob/main/images/visao_geral_dataframe.PNG" alt="Material Bread logo">
+    <img width="1000" src="https://github.com/Samirnunes/eda_sql_univariate_tech_layoffs/blob/main/images/visao_geral_dataframe.PNG" alt="Material Bread logo">
 <p>
 
 Suas colunas possuem as seguintes descrições:
