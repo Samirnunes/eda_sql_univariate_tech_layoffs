@@ -1,4 +1,4 @@
-# eda_tech_layoffs
+# Análise Univariada em SQL: Layoffs nas Empresas de Tecnologia (2022-2023)
  
 Fonte dos dados: https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data
 
