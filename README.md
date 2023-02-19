@@ -8,7 +8,7 @@ várias empresas para praticar o uso da linguagem SQL (Standard Query Language) 
 ## Tecnologias e Bibliotecas Utilizadas
 
 - Jupyter Notebook
+- SQL (SQLite)
 - Python
 - Pandas
-- SQL (SQLite)
 - Matplotlib
