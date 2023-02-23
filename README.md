@@ -1,7 +1,7 @@
 # Análise Univariada em SQL: Layoffs nas Empresas de Tecnologia (2022-2023)
 
 <p align="center">
-    <img width="1000" src="https://github.com/Samirnunes/eda_sql_univariate_tech_layoffs/blob/main/images/sqlite.jpg" alt="Material Bread logo">
+    <img width="500" src="https://github.com/Samirnunes/eda_sql_univariate_tech_layoffs/blob/main/images/sqlite.jpg" alt="Material Bread logo">
 <p>
  
 Fonte dos dados: https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data
