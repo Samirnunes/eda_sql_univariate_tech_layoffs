@@ -3,6 +3,10 @@
 <p align="center">
     <img width="300" src="https://github.com/Samirnunes/eda_sql_univariate_tech_layoffs/blob/main/images/sqlite.jpg" alt="Material Bread logo">
 <p>
+    
+<p align="center">
+    <img width="300" src="https://github.com/Samirnunes/eda_sql_univariate_tech_layoffs/blob/main/images/kaggle.png" alt="Material Bread logo">
+<p>
  
 Fonte dos dados: https://www.kaggle.com/datasets/salimwid/technology-company-layoffs-20222023-data
 
